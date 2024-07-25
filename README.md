@@ -11,7 +11,7 @@ Puedes descargar el estudio completo haciendo clic en el siguiente enlace:
 [Descargar el Estudio](https://github.com/tuusuario/estudio-ayuntamientos/raw/main/estudio-influencia-politica.pdf)
 
 ## Autor
-Martín - Economista especializado en finanzas empresariales y apasionado por el análisis político y su impacto en la gestión local.
+Martín Pascual - Economista especializado en finanzas empresariales y apasionado por el análisis político y su impacto en la gestión local.
 
 ## Licencia
 Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
